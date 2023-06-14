@@ -1,0 +1,44 @@
+html,
+body {
+  overflow-x: hidden;
+}
+h1 {
+  font-family: "Agrandir";
+  font-weight: bold;
+}
+
+.square_find {
+  width: 300px;
+  height: 300px;
+  margin: 5vh 50px;
+  display: inline-block;
+  text-align: center;
+  border: 10px solid #4acaeb80;
+  border-radius: 20px;
+}
+img {
+  width: 200px;
+  height: 200px;
+}
+
+.square_insert {
+  width: 300px;
+  height: 300px;
+  margin: 5vh 50px;
+  display: inline-block;
+  text-align: center;
+  border: 10px solid #f1be0980;
+  border-radius: 20px;
+}
+.desc1 {
+  background-color: #4acaeb80;
+  border-radius: 20px;
+}
+.desc2 {
+  background-color: #f1be0980;
+  border-radius: 20px;
+}
+.description {
+  margin-top: 10vh;
+  width: 300px;
+}
